@@ -1,5 +1,4 @@
 +++
-draft = true
 email = "your@face.com"
 image = "/images/the-simpsons.png"
 social = []
